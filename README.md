@@ -67,4 +67,6 @@
    - @Aspect 프록시 - 설명
    - 정리
 
-[다음으로](https://github.com/heechul90/study-spring-aop)
+[[이전으로]](https://github.com/heechul90/study-spring-advanced) [[다음으로]](https://github.com/heechul90/study-spring-aop)
+
+[[복습하기/적용하기]](https://github.com/heechul90/project-hellcoding)
